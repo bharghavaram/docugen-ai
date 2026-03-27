@@ -1,3 +1,5 @@
+> **📅 Project Period:** Dec 2024 – Feb 2025 &nbsp;|&nbsp; **Status:** Completed &nbsp;|&nbsp; **Author:** [Bharghava Ram Vemuri](https://github.com/bharghavaram)
+
 # 📄 DocuGen AI – Intelligent Document Generation & Summarisation Platform
 
 > **End-to-end GenAI platform using Claude and Mistral to ingest unstructured data and generate tailored business documents with 88% accuracy.**
