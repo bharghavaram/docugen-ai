@@ -16,7 +16,11 @@
 
 ---
 
-## 🎯 Problem Statement
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bharghavaram/docugen-ai/main/docs/images/demo.svg" alt="docugen-ai demo" width="820"/>
+</div>
+
+--- 🎯 Problem Statement
 
 Knowledge workers spend 40% of their time writing reports, proposals, and summaries — often starting from scratch despite having access to relevant prior documents. Template-based tools produce rigid, generic output. This platform ingests your document library into ChromaDB, uses LlamaIndex for intelligent retrieval, and generates contextually-grounded documents using Claude and Mistral APIs — producing customised reports, proposals, summaries, and templates in under 60 seconds.
 
